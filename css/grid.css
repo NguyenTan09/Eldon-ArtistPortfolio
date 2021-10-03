@@ -1,0 +1,191 @@
+.col-0 {
+    width: 126px;
+}
+.col-1 {
+    width: 8.33%;
+}
+.col-2 {
+    width: 16.66%;
+}
+.col-2-x {
+    width: 251px;
+}
+.col-3 {
+    width: 25%;
+}
+.col-4 {
+    width: 33.33%;
+}
+.col-5 {
+    width: 41.66%;
+}
+.col-6 {
+    width: 50%;
+    margin-left: -5px;
+}
+.col-6-x {
+    width: 607px;
+}
+.col-7 {
+    width: 58.33%;
+}
+.col-8 {
+    width: 66.66%;
+}
+.col-9 {
+    width: 75%;
+}
+.col-10 {
+    width: 83.33%;
+}
+.col-11 {
+    width: 91.66%;
+}
+.col-12 {
+    width: 100%;
+}
+
+/* -------Spacing------- */
+/* padding */
+.p-1 {
+    padding: 4px;
+}
+.px-1 {
+    padding: 0 4px;
+}
+.py-1 {
+    padding: 4px 0;
+}
+.pl-1 {
+    padding-left: 4px;
+}
+.pr-1 {
+    padding-right: 4px;
+}
+
+.p-2 {
+    padding: 8px;
+}
+.px-2 {
+    padding: 0 8px;
+}
+.py-2 {
+    padding: 8px 0;
+}
+.pl-2 {
+    padding-left: 8px;
+}
+.pr-2 {
+    padding-right: 8px;
+}
+
+.p-3 {
+    padding: 12px;
+}
+.px-3 {
+    padding: 0 12px;
+}
+.py-3 {
+    padding: 12px 0;
+}
+.pl-3 {
+    padding-left: 12px;
+}
+.pr-3 {
+    padding-right: 12px;
+}
+
+.p-4 {
+    padding: 16px;
+}
+.px-4 {
+    padding: 0 16px;
+}
+.py-4 {
+    padding: 16px 0;
+}
+.pl-4 {
+    padding-left: 16px;
+}
+.pr-4 {
+    padding-right: 16px;
+}
+
+.p-5 {
+    padding: 20px;
+}
+.px-5 {
+    padding: 0px 20px;
+}
+.py-5 {
+    padding: 20px 0;
+}
+.pl-5 {
+    padding-left: 20px;
+}
+.pr-5 {
+    padding-right: 20px;
+}
+
+.p-6 {
+    padding: 24px;
+}
+.px-6 {
+    padding: 0px 24px;
+}
+.py-6 {
+    padding: 24px 0;
+}
+.pl-6 {
+    padding-left: 24px;
+}
+.pr-6 {
+    padding-right: 24px;
+}
+
+.p-7 {
+    padding: 28px;
+}
+.px-7 {
+    padding: 0px 28px;
+}
+.py-7 {
+    padding: 28px 0;
+}
+.pl-7 {
+    padding-left: 28px;
+}
+.pr-7 {
+    padding-right: 28px;
+}
+
+.p-8 {
+    padding: 32px;
+}
+.px-8 {
+    padding: 0px 32px;
+}
+.py-8 {
+    padding: 32px 0;
+}
+.pl-8 {
+    padding-left: 32px;
+}
+.pr-8 {
+    padding-right: 32px;
+}
+.py-x {
+    padding: 60px 0;
+}
+.mb-section {
+    margin-bottom: 16px;
+}
+.mb-section-x {
+    margin-bottom: 60px;
+}
+.ml-section-x{
+    margin-left: 97px;
+}
+.mt-section-project {
+    margin-top: 90px;
+}
